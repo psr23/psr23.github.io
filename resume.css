@@ -1,0 +1,146 @@
+body {
+    background-color: rgb(65, 97, 120);
+    opacity: 1;
+    transform: none;
+}
+
+
+/*use for PSR line */
+
+.a {
+    font-size: 50px;
+    background-color: rgb(65, 97, 120);
+    box-shadow: rgb(0 0 0 / 70%) 0px 4px 13px;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    height: 80px;
+    margin-top: 0%;
+    padding-top: 20px;
+    padding-left: 10px;
+    color: rgb(229, 229, 229);
+}
+
+
+/* for <li> come in colum */
+
+.b {
+    display: inline-block;
+    cursor: pointer;
+}
+
+
+/* property c or d use for home,projects,contact k liye */
+
+.c {
+    color: blanchedalmond;
+    font-size: 30px;
+    float: right;
+}
+
+.d {
+    text-indent: 40px;
+}
+
+
+/* using for resume button */
+
+.k {
+    cursor: pointer;
+    margin-left: 320px;
+    width: 130px;
+    height: 25px;
+    background: transparent;
+    border: 1px solid rgb(33, 242, 255);
+    font-family: Montserrat, sans-serif;
+    font-size: 20px;
+    transition: all 0.3s linear 0s;
+    text-decoration: none;
+    color: rgb(229, 229, 229);
+    text-align: center;
+    padding: 12px;
+    display: inline-block;
+}
+
+.k:hover {
+    background-color: rgba(62, 89, 163, 0.986);
+}
+
+
+/* this is use for hi, my name is k liye (e) */
+
+.e {
+    margin-top: 150px;
+    margin-left: 320px;
+    color: rgb(139, 172, 235);
+    font-size: 40px;
+}
+
+
+/* use for name  */
+
+.f {
+    color: e5e5e5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 320px;
+    font-size: 50px;
+}
+
+
+/* use for name after next line */
+
+.g {
+    color: #E5E5E5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 320px;
+    font-size: 40px;
+    margin-top: -20px;
+}
+
+
+/* use for details */
+
+.h {
+    margin-left: 320px;
+    font-size: x-large;
+    color: #A8A8A8;
+}
+
+
+/* use for botton */
+
+.i {
+    cursor: pointer;
+    margin-top: 4rem;
+    margin-left: 320px;
+    width: 220px;
+    height: 65px;
+    border: 1px solid rgb(33, 242, 255);
+    font-family: Montserrat, sans-serif;
+    font-size: 30px;
+    transition: all 0.3s linear 0s;
+    text-decoration: none;
+    color: rgb(229, 229, 229);
+    text-align: center;
+    padding-top: 22px;
+    color: blanchedalmond;
+}
+
+
+/* use for highligth the background color */
+
+.i:hover {
+    background-color: rgba(62, 89, 163, 0.986);
+}
+
+
+/* use for mail icon for make perfect */
+
+.j {
+    margin-left: 160px;
+}
+
+.j:hover {
+    cursor: pointer;
+    transition: all 0.3s linear 0s;
+}
